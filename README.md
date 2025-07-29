@@ -13,9 +13,19 @@ Add the recorded hologram in the data folder
 
 **Usage**
 
+# Python (**The code is under development**)
+
+**Iterative_reconst.py:** Iterative reconstruction code
+
+**utils.py:** The helper functions required to perform hologram reconstruction iteratively.
+
+# Matlab (Fully functional code)
+
+**Usage**
+
 Run Iterative_reconstruction.m
 
-The helper function are also provided.
+The helper functions are also provided.
 
 **Select the +1 diffraction order region:**
 
